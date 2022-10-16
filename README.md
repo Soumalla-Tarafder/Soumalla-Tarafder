@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumalla</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer & Data Science enthusiastic from India</h3>
 
 <img align="right" alt="LOVE WITH AI" width="400" src="https://s.wsj.net/public/resources/images/OG-AX699_201710_GR_20171027111842.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumalla-tarafder&label=Profile%20views&color=0e75b6&style=flat" alt="soumalla-tarafder" /> </p>
 
-- 🌱 I’m currently learning **ML,ANN,CNN,RNN AND NEW techs**
+- 🌱 I’m currently learning **ML,ANN,CNN,RNN AND NEW TECHNOLOGIES**
 
 - 📫 How to reach me **soumallatarafder@gmail.com**
 
