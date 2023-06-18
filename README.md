@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **soumallatarafder@gmail.com**
 
-- 📄 Know about my experiences [Soumalla_Tarafder_Resume](https://github.com/Soumalla-Tarafder/Soumalla-Tarafder/blob/main/Soumalla_Tarafder_Resume_NEW.pdf)
+- 📄 Know about my experiences [Soumalla_Tarafder_Resume](https://github.com/Soumalla-Tarafder/Soumalla-Tarafder/blob/main/Soumalla_Tarafder_Resume.pdf)
 
 - ⚡ Fun fact **I am funny and love to make people laugh😎**
 
