@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumalla-tarafder&label=Profile%20views&color=0e75b6&style=flat" alt="soumalla-tarafder" /> </p>
 
-- 🌱 I’m currently learning **ML,ANN,CNN,RNN AND NEW TECHNOLOGIES**
+- 🌱 I’m currently learning **ML,ANN,CNN,RNN,LLm AND NEW Trending TECHNOLOGIES**
 
 - 📫 How to reach me **soumallatarafder@gmail.com**
 
